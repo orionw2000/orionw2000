@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **orionw2000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lqDt4iqmcWYVt6iKeGKymOuYUfivXpZqNcp2w_OpWvc/edit?usp=sharing](https://docs.google.com/document/d/1lqDt4iqmcWYVt6iKeGKymOuYUfivXpZqNcp2w_OpWvc/edit?usp=sharing)
-
 - ⚡ Fun fact **I really want to learn more patterns, algorithms, just already solved common occurences in code**
 
 <h3 align="left">Connect with me:</h3>
